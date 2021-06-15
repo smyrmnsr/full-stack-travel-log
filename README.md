@@ -1,6 +1,6 @@
 # Full Stack Travel Log
 
-> <h1 align="center">Fullstack Travel Log 👋</h1>
+> <h1 align="center">Fullstack Travel Log</h1>
 
 > A full stack web application with user authentication login and CRUD functionality that allows travelers to create a profile and store / list places in any city in the world they have visited/traveled. This web application keeps track of all of the reviews posted by users using mongodb database. 
 
