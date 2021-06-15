@@ -39,6 +39,7 @@ BACKEND
 ![MONGODB](https://img.shields.io/badge/MONGODB-black?style=flat&logo=mongodb&logoColor=green)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-black?style=flat&logo=express&logoColor=yellow)
 
+The project focused on creating client side and server side JavaScript, CSS for styling, and an EJS template to render the html page. This project also used express for building the server API and mongodb database to store the collections and documents containing the data from the interactions with users regarding the cities they have visited and their reviews.
 
 ## Author
 
@@ -46,11 +47,5 @@ BACKEND
 
 - Github: [@smyrmnsr](https://github.com/smyrmnsr)
 
-## 📝 License
 
-Copyright © 2021 [Samir Mansour](https://github.com/smyrmnsr).<br />
-This project is [Working Code is Licensed under the MIT license.](Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#34;Software&#34;),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:) licensed.
 
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
