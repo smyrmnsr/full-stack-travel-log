@@ -37,6 +37,7 @@ BACKEND
 
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-black?style=flat&logo=node-dot-js&logoColor=green)
 ![MONGODB](https://img.shields.io/badge/MONGODB-black?style=flat&logo=mongodb&logoColor=green)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-black?style=flat&logo=express&logoColor=yellow)
 
 
 ## Author
