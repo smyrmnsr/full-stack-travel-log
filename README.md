@@ -28,16 +28,15 @@ npm run start
 
 FRONTEND
 
-![REACT](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=cyan)
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![REACT](https://img.shields.io/badge/REACT-black?style=flat&logo=react&logoColor=cyan)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=red)
 
 BACKEND
 
-![NODE.JS](https://img.shields.io/badge/Node.js-black?style=flat&logo=node-dot-js&logoColor=green)
-![MONGODB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=green)
-
+![NODE.JS](https://img.shields.io/badge/NODE.JS-black?style=flat&logo=node-dot-js&logoColor=green)
+![MONGODB](https://img.shields.io/badge/MONGODB-black?style=flat&logo=mongodb&logoColor=green)
 
 
 ## Author
