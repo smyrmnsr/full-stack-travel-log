@@ -6,8 +6,8 @@
 
 
 
-![travel-log](https://github.com/smyrmnsr/full-stack-travel-log/blob/main/travel-log.gif)
-
+<!-- ![travel-log](https://github.com/smyrmnsr/full-stack-travel-log/blob/main/travel-log.gif)
+ -->
 ## Setup/Installation Requirements
 
 Install
